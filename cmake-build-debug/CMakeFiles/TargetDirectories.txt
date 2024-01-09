@@ -1,0 +1,3 @@
+/Users/denizayhan04/Desktop/donem sonu projesi/cmake-build-debug/CMakeFiles/donem_sonu_projesi.dir
+/Users/denizayhan04/Desktop/donem sonu projesi/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/denizayhan04/Desktop/donem sonu projesi/cmake-build-debug/CMakeFiles/rebuild_cache.dir

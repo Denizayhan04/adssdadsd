@@ -1,0 +1,8 @@
+id:1, isim:qweq, yaş:22, Saatlik ücret:32, Çalışma saati:12, Maaş:384
+id:2, isim:qwe, yaş:21, Saatlik ücret:33, Çalışma saati:44, Maaş:1452
+id:3, isim:qew, yaş:22, Saatlik ücret:44, Çalışma saati:55, Maaş:2420
+id:4, isim:qwe, yaş:21, Saatlik ücret:14, Çalışma saati:54, Maaş:756
+id:5, isim:qweqw, yaş:21, Saatlik ücret:44, Çalışma saati:22, Maaş:968
+id:6, isim:deneme, yaş:11, Saatlik ücret:11, Çalışma saati:11, Maaş:121
+id:7, isim:qwe, yaş:21, Saatlik ücret:44, Çalışma saati:21, Maaş:924
+id:8, isim:İsim, yaş:21, Saatlik ücret:23, Çalışma saati:14, Maaş:322
